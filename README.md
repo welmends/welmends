@@ -27,6 +27,8 @@ I'm a software engineer, passionate about technology, with about 6 years of expe
 
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=" />
 
+<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Shell&color=222222&logo=Shell&logoColor=FFD500&label=" />
+
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=" />
 
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Kubernetes&color=326CE5&logo=Kubernetes&logoColor=FFFFFF&label=" />
