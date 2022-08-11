@@ -1,6 +1,6 @@
 ### Hi there :grin:
 
-I'm a software engineer, passionate about technology, with about 6 years of experience working with software.
+I'm a software engineer, passionate about technology, with about 6 years of experience working with software. I have worked with several technologies, but mainly with Python, SQL, and Docker in a Unix environment, building end-to-end applications since the development until the deployment. Currently, my main focus is in the Back-End and Operations Role, building features, testing, maintaining, and providing code reviews.
 
 ### :bar_chart: &nbsp;Stack
 
@@ -13,10 +13,6 @@ I'm a software engineer, passionate about technology, with about 6 years of expe
 
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Flask&color=000000&logo=Flask&logoColor=FFFFFF&label=" />
 
-<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Apache+Airflow&color=017CEE&logo=Apache+Airflow&logoColor=FFFFFF&label=" />
-
-<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Apache+Spark&color=E25A1C&logo=Apache+Spark&logoColor=FFFFFF&label=" />
-
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=scikit-learn&color=222222&logo=scikit-learn&logoColor=F7931E&label=" />
 
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=" />
@@ -24,8 +20,6 @@ I'm a software engineer, passionate about technology, with about 6 years of expe
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=4169E1&logo=PostgreSQL&logoColor=FFFFFF&label=" />
 
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=SQLite&color=003B57&logo=SQLite&logoColor=FFFFFF&label=" />
-
-<img src="https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=" />
 
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Shell&color=222222&logo=Shell&logoColor=FFD500&label=" />
 
