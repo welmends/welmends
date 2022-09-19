@@ -1,6 +1,6 @@
 ### Hi there :grin:
 
-I'm a software engineer, passionate about technology, with about 6 years of experience working with software. I have worked with several technologies, but mainly with Python, Javascript, SQL, and Docker in a Unix environment, building end-to-end applications since the development until the deployment. Currently, my main focus is in the Back-End and Operations Role, building features, testing, maintaining, and providing code reviews.
+Software Engineer based in Brazil. Interested in Distributed and Scalable Systems, Modern Web Technologies, and Automated Processes.
 
 ### :bar_chart: &nbsp;Stack
 
