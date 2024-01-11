@@ -2,10 +2,11 @@
 
 Software Engineer based in Brazil. Interested in Distributed and Scalable Systems, Modern Web Technologies, and Automated Processes.
 
+<!-- https://github.com/progfay/shields-with-icon -->
+<!---
 ### :bar_chart: &nbsp;Stack
 
 <div align="left">
-<!-- https://github.com/progfay/shields-with-icon -->
 
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=" />
 
@@ -35,6 +36,8 @@ Software Engineer based in Brazil. Interested in Distributed and Scalable System
 
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+AWS&color=232F3E&logo=Amazon+AWS&logoColor=FFFFFF&label=" />
 </div>
+
+-->
 
 ### :raising_hand_man: &nbsp;Social
 
