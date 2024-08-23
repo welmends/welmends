@@ -45,7 +45,7 @@ Software Engineer based in Brazil. Interested in Distributed and Scalable System
   <a href="https://www.linkedin.com/in/welmends" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/welmends" target="_blank">
+<!--   <a href="https://github.com/welmends" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  </a> -->
 </div>
