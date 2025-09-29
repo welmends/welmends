@@ -1,9 +1,14 @@
 ### Hi there :grin:
 
-Software Engineer based in Brazil. Interested in Distributed and Scalable Systems, Modern Web Technologies, and Automated Processes.
+Software Engineer based in Brazil.
+
+
 
 <!-- https://github.com/progfay/shields-with-icon -->
 <!---
+
+Interested in Distributed and Scalable Systems, Modern Web Technologies, and Automated Processes.
+
 ### :bar_chart: &nbsp;Stack
 
 <div align="left">
